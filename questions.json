@@ -1,0 +1,47 @@
+[
+    {
+        "pergunta": "Qual comando é usado para criar uma lista no Python?",
+        "opcoes": ["list()", "dict()", "set()", "tuple()"],
+        "correta": 1
+    },
+    {
+        "pergunta": "O Python é uma linguagem de?",
+        "opcoes": ["Baixo Nível", "Alto Nível", "Descrição", "Médio Nível"],
+        "correta": 2
+    },
+    {
+        "pergunta": "Qual destes não é um tipo de dado no Python?",
+        "opcoes": ["String", "Integer", "Boolean", "Vegetable"],
+        "correta": 4
+    },
+    {
+        "pergunta": "Qual o nome da principal biblioteca de python que foi utilizada para me criar?",
+        "opcoes": ["discord.py", "stdio", "pyautogui", "import"],
+        "correta": 1
+    },
+    {
+        "pergunta": "Qual palavra-chave é usada para definir uma função no Python?",
+        "opcoes": ["function", "def", "create", "fun"],
+        "correta": 2
+    },
+    {
+        "pergunta": "Na lógica de programação, o que é um Algoritmo?",
+        "opcoes": ["Uma peça de hardware do computador", "Um erro de sintaxe no código", "Uma sequência de passos para resolver um problema", "Um tipo de variável de texto"],
+        "correta": 3
+    },
+    {
+        "pergunta": "Na lógica de programação, o que quer dizer num % 2 != 0?",
+        "opcoes": ["num é inválido", "num é impar", "num é string", "num é par"],
+        "correta": 2
+    },
+    {
+        "pergunta": "Se uma variável A é 'Verdadeira' e B é 'Falsa', qual o resultado lógico de (A and B)?",
+        "opcoes": ["Verdadeiro", "Falso", "Nulo", "Infinito"],
+        "correta": 2
+    },
+    {
+        "pergunta": "Como se escreve um comentário de uma linha no Python?",
+        "opcoes": ["// Meu comentário", "/* Meu comentário */", "# Meu comentário", "../ Meu comentário"],
+        "correta": 3
+    }
+]
