@@ -7,6 +7,6 @@ Um Bot para Discord criado com finalidade educacional, para desafiar minhas habi
 * **Sistema de Verificação:** Integração com a API do Bloxlink através de Slash Command (`/verify`). se o usuário tiver uma conta no roblox vinculada ao seu discord através do blox link, poderá desfrutar do servidor
 * **Moderação anti-spam** O bot monitora o chat, ao indentificar um spam, ele dá um aviso (no máximo 3), depois aplica uma penalidade.
 * **Limpeza** Seguindo a linha anti-spam, o comando (`!clear num`) apaga a quantidade de mensagens passada no parametro.
-* **Quiz Interativo** Desenvolvi o Comando (`!quiz`) com perguntas dinâmicas lidas a partir de um arquivo JSON local e que tem tempo limite de resposta.
+* **Quiz Interativo** Desenvolvi o Comando (`!quiz`) com perguntas dinâmicas lidas a partir de um arquivo JSON local e que conta com um tempo limite de resposta.
 
-O projeto também testou meus conhecimentos em modularização, no caso do Python, utilizei cogs.
+O projeto também consolidou meus conhecimentos em modularização, no caso do Python, utilizei a estrutura de Cogs.'
